@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PlateMate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Header section -->
+    <string name="username">Username</string>
+    <string name="user_email">android.studio@example.com</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <!-- Navigation UI section -->
+    <string name="home">Home</string>
+    <string name="order_history">Order History</string>
+    <string name="payment">Payment</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="account_settings">Account Settings</string>
+</resources>
