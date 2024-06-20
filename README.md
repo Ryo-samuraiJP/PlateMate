@@ -8,12 +8,14 @@ PlateMate is a comprehensive food delivery mobile app developed using Java and X
 - [Technologies Used](#technologies-used)
 
 ## Features
-- 
+- User authentication
+- Browsing multiple food categories, stores, and menus
+- Shopping cart functionality
+- Finalizing orders
 
 ## Demo Video
 Click the below image to watch demo video.
-
-[![Watch demo video](https://github.com/Ryo-samurai6340/PlateMate-food-delivery-Android-app/assets/131563887/de8c4d0c-0812-4d55-84ac-09e8ea83de17)](https://www.youtube.com/watch?v=N_yUfrnbgWI)
+[![Watch the video](https://img.youtube.com/vi/N_yUfrnbgWI/maxresdefault.jpg)](https://youtu.be/N_yUfrnbgWI)
 
 ## Usage
 <!-- 1. **Upload an image:** Click on the "Try" section, then upload an image.
