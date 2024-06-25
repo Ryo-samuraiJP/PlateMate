@@ -22,6 +22,6 @@ Click the below image to watch demo video.
 ![screenshot1](https://github.com/Ryo-samurai6340/AIVisualDoppelganger-image-replicator/assets/131563887/74a862d6-5560-400f-be91-2365108a7c2f) -->
 
 ## <a name="#technologies-used"></a>Technologies Used
-- Java
-- XML
-- Android Studio
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+<img alt="XML" width="42px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
