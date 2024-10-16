@@ -1,10 +1,10 @@
 # PlateMate
-PlateMate is a comprehensive food delivery mobile app developed using Java and XML for Android OS. It integrates core functionalities such as user authentication, browsing multiple food categories, stores, and menus, adding items to the shopping cart, and finalizing orders.
+PlateMate is a comprehensive food delivery mobile app for Android OS inspired by UberEats, designed to enhance user shopping experience. It's developed using Java and XML on Android Studio to integrate core functionalities and logic, including user authentication, a user-friendly interface for browsing, adding items to a shopping cart, and finalizing orders.
 
 ## Table of Contents
 - [Features](#features)
 - [Demo Video](#demo-video)
-- [Usage](#usage)
+- [Architectual Design](#architectual-design)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -13,15 +13,17 @@ PlateMate is a comprehensive food delivery mobile app developed using Java and X
 - Shopping cart functionality
 - Finalizing orders
 
-## Demo Video
-Click the below image to watch demo video.
+## Demo Video 
+Click the image to watch demo video on YouTube.
+
 [![Watch the video](https://img.youtube.com/vi/N_yUfrnbgWI/maxresdefault.jpg)](https://youtu.be/N_yUfrnbgWI)
 
-## Usage
-<!-- 1. **Upload an image:** Click on the "Try" section, then upload an image.
-![screenshot1](https://github.com/Ryo-samurai6340/AIVisualDoppelganger-image-replicator/assets/131563887/74a862d6-5560-400f-be91-2365108a7c2f) -->
+## Architectual Design 
+Click the image to see more details of architectual design.
+
+[![Architectual Design](https://github.com/Ryo-samuraiJP/Ryo-samuraiJP/blob/main/img/PlateMateArchitecture.png)](https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/) 
 
 ## <a name="#technologies-used"></a>Technologies Used
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-<img alt="XML" width="42px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=for-the-badge&logo=java&logoColor=gray&color=f89820)
+![XML](https://img.shields.io/badge/xml%20-%20?style=for-the-badge&logo=xml&logoSize=auto&color=%23005FAD)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
