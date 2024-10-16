@@ -14,11 +14,13 @@ PlateMate is a comprehensive food delivery mobile app for Android OS inspired by
 - Finalizing orders
 
 ## Demo Video 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=N_yUfrnbgWI)
 Click the image to watch demo video on YouTube.
 
 [![Watch the video](https://img.youtube.com/vi/N_yUfrnbgWI/maxresdefault.jpg)](https://youtu.be/N_yUfrnbgWI)
 
 ## Architectual Design 
+[![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=plastic&logo=prezi&logoColor=white&logoSize=auto)](https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/)
 Click the image to see more details of architectual design.
 
 [![Architectual Design](https://github.com/Ryo-samuraiJP/Ryo-samuraiJP/blob/main/img/PlateMateArchitecture.png)](https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/) 
