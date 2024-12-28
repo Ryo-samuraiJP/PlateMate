@@ -6,6 +6,7 @@ PlateMate is a comprehensive food delivery mobile app for Android OS inspired by
 - [Demo Video](#demo-video)
 - [Architectual Design](#architectual-design)
 - [Technologies Used](#technologies-used)
+- [License](#license)
 
 ## Features
 - User authentication
@@ -38,3 +39,6 @@ Click the image to see more details of architectual design.
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&logoSize=auto)
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=for-the-badge&logo=argo-uml&logoSize=auto)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ryo-samuraiJP/PlateMate?tab=MIT-1-ov-file) file for details.
