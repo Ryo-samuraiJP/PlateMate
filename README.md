@@ -51,7 +51,7 @@ Explore the overview [demo](https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/) on Pre
 ### Non-Functional Requirements
 <img alt="Non-Functional Requirements" src="https://github.com/user-attachments/assets/d11c97b9-71d2-49c9-9562-38c966d9c0ca" width="800px" />
 
-### ![4+1 Diagram](https://github.com/Ryo-samuraiJP/PlateMate/blob/main/architecture_images/4%2B1%20Diagram.png)
+### 4+1 Diagram
 <img alt="4+1 Diagram" src="https://github.com/user-attachments/assets/cac9c840-eaa7-4a26-b6e7-b97ea4a08e1a" width="800px" />
 
 ### Logical View
